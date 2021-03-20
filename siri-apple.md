@@ -9,5 +9,5 @@ license_text:
 categories:
   - Έξυπνες διεπαφές χρήστη 
 tags:
-  - Siri
+
 ---
