@@ -7,7 +7,7 @@ caption: 'Την Siri θα την βρούμε σε όλα τα λειτουργ
 license_url: 'https://el.wikipedia.org/wiki/Siri'
 
 categories:
-  - Έξυπνες διεπαφές χρήστη 
+  - Τρόποι διάδρασης
 
 
 ---
