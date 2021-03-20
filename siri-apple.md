@@ -7,7 +7,7 @@ caption: 'Την Siri θα την βρούμε σε όλα τα λειτουργ
 license_url: 'https://el.wikipedia.org/wiki/Siri'
 license_text: Courtesy of Deutsches Museum
 categories:
-  - Έξυπνες διεπαφές χρήστη
+  - Έξυπνες διεπαφές χρήστη 
 tags:
   - Siri
 ---
